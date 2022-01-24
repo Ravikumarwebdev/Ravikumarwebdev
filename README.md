@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ravikumarwebdev
 - 👀 I’m interested in building websites
-- 🌱 I’m currently learning Full stack web development
 - 💞️ I’m looking to collaborate on new projects in web development
 - 📫 How to reach me ...
 
